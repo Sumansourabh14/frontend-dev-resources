@@ -16,6 +16,7 @@ This will not cover all things "DevOps" but it will cover the areas that I feel 
 
 # JavaScript
 
+- [Difference between If-else and Switch?](https://stackoverflow.com/questions/680656/what-is-the-difference-between-if-else-and-switch)
 - [If-Else or Switch-Case: Which One to Pick?](https://dev.to/sumusiriwardana/if-else-or-switch-case-which-one-to-pick-4p3h)
 - [Client-side vs. Server-side rendering](https://www.freecodecamp.org/news/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d/)
 
