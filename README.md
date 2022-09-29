@@ -30,4 +30,5 @@ This will not cover all things "DevOps" but it will cover the areas that I feel 
 ## Projects
 
 - [ Build NETFLIX With React JS - Tailwind CSS - FIREBASE](https://youtu.be/ATz8wg6sg30)
+- [Netflix Clone - React, Styled Components, Firebase (Firestore & Auth)](https://youtu.be/x_EEwGe-a9o)
 - [Spotify 2.0 Clone Music App with React (Tailwind, Shazam, Redux)](https://youtu.be/I1cpb0tYV74)
