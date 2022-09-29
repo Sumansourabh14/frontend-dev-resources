@@ -25,6 +25,7 @@ This will not cover all things "DevOps" but it will cover the areas that I feel 
 
 - [Difference between Virtual DOM and DOM](https://reactkungfu.com/2015/10/the-difference-between-virtual-dom-and-dom/)
 - [How State Works in React?](https://www.freecodecamp.org/news/what-is-state-in-react-explained-with-examples/)
+- [useEffect Hook for Absolute Beginners](https://www.freecodecamp.org/news/react-useeffect-absolute-beginners/)
 
 ## Projects
 
