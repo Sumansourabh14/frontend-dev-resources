@@ -20,6 +20,7 @@ This will not cover all things "DevOps" but it will cover the areas that I feel 
 - [If-Else or Switch-Case: Which One to Pick?](https://dev.to/sumusiriwardana/if-else-or-switch-case-which-one-to-pick-4p3h)
 - [Pure Functions](https://rehansattar.dev/functional-programming-pure-functions)
 - [Client-side vs. Server-side rendering](https://www.freecodecamp.org/news/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d/)
+- [What is Debugging? How to Debug Your Code for Beginners](https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/)
 
 # React
 
